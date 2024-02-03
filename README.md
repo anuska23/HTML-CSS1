@@ -1,2 +1,3 @@
-# HTML-CSS1
-Hotel Website
+# Hotel Website
+1st Project using HTML-CSS
+
